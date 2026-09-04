@@ -1,0 +1,2980 @@
+{
+  "version": 2,
+  "lessons": [
+    {
+      "number": 1,
+      "category": "op",
+      "titleZh": "句子骨架：come–take",
+      "titleEn": "Sentence foundations: come–take",
+      "teachingFocusZh": "先找句子的发动机和路标，再把动作、对象与时间关系拼成整句。",
+      "words": [
+        "come",
+        "get",
+        "give",
+        "go",
+        "keep",
+        "let",
+        "make",
+        "put",
+        "seem",
+        "take"
+      ],
+      "contrasts": [
+        {
+          "words": [
+            "come",
+            "get"
+          ],
+          "noteZh": "比较 come（来,前来）和 get（得到,获得;变得）：come 的英文释义是“move toward the speaker or a place”，get 的英文释义是“obtain, become, or receive”；例句分别是“Come here when you're ready.”和“I'll get a new book tomorrow.”。"
+        },
+        {
+          "words": [
+            "give",
+            "go"
+          ],
+          "noteZh": "比较 give（给,赠予）和 go（去,离开）：give 的英文释义是“transfer something to another”，go 的英文释义是“move away or proceed”；例句分别是“Please give me your hand.”和“We go to school every day.”。"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "category": "op",
+      "titleZh": "句子骨架：be–across",
+      "titleEn": "Sentence foundations: be–across",
+      "teachingFocusZh": "先找句子的发动机和路标，再把动作、对象与时间关系拼成整句。",
+      "words": [
+        "be",
+        "do",
+        "have",
+        "say",
+        "see",
+        "send",
+        "may",
+        "will",
+        "about",
+        "across"
+      ],
+      "contrasts": [
+        {
+          "words": [
+            "be",
+            "do"
+          ],
+          "noteZh": "比较 be（是,存在）和 do（做,执行）：be 的英文释义是“exist or have a state”，do 的英文释义是“perform an action”；例句分别是“To be or not to be.”和“Do your work first.”。"
+        },
+        {
+          "words": [
+            "have",
+            "say"
+          ],
+          "noteZh": "比较 have（有,拥有）和 say（说,讲）：have 的英文释义是“possess or hold”，say 的英文释义是“speak or state aloud”；例句分别是“I have two sisters.”和“What did you say to him?”。"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "category": "op",
+      "titleZh": "句子骨架：after–in",
+      "titleEn": "Sentence foundations: after–in",
+      "teachingFocusZh": "先找句子的发动机和路标，再把动作、对象与时间关系拼成整句。",
+      "words": [
+        "after",
+        "against",
+        "among",
+        "at",
+        "before",
+        "between",
+        "by",
+        "down",
+        "from",
+        "in"
+      ],
+      "contrasts": [
+        {
+          "words": [
+            "after",
+            "against"
+          ],
+          "noteZh": "比较 after（在...之后）和 against（反对,靠着）：after 的英文释义是“later in time or behind”，against 的英文释义是“in opposition to or touching”；例句分别是“Come after lunch.”和“The ladder leans against the wall.”。"
+        },
+        {
+          "words": [
+            "among",
+            "at"
+          ],
+          "noteZh": "比较 among（在...之中）和 at（在,于）：among 的英文释义是“in the middle of a group”，at 的英文释义是“specific location or time”；例句分别是“She is popular among her friends.”和“Meet me at the station.”。"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "category": "op",
+      "titleZh": "句子骨架：off–for",
+      "titleEn": "Sentence foundations: off–for",
+      "teachingFocusZh": "先找句子的发动机和路标，再把动作、对象与时间关系拼成整句。",
+      "words": [
+        "off",
+        "on",
+        "over",
+        "through",
+        "to",
+        "under",
+        "up",
+        "with",
+        "as",
+        "for"
+      ],
+      "contrasts": [
+        {
+          "words": [
+            "off",
+            "on"
+          ],
+          "noteZh": "比较 off（离开,关）和 on（在...上,开）：off 的英文释义是“away from or disconnected”，on 的英文释义是“in contact with the surface”；例句分别是“Turn off the light.”和“The cat is on the chair.”。"
+        },
+        {
+          "words": [
+            "over",
+            "through"
+          ],
+          "noteZh": "比较 over（在...上方,超过）和 through（穿过,通过）：over 的英文释义是“above or more than”，through 的英文释义是“from one side to the other”；例句分别是“The plane flew over the city.”和“Walk through the door.”。"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "category": "op",
+      "titleZh": "句子骨架：of–much",
+      "titleEn": "Sentence foundations: of–much",
+      "teachingFocusZh": "先找句子的发动机和路标，再把动作、对象与时间关系拼成整句。",
+      "words": [
+        "of",
+        "till",
+        "than",
+        "a",
+        "the",
+        "all",
+        "any",
+        "every",
+        "little",
+        "much"
+      ],
+      "contrasts": [
+        {
+          "words": [
+            "of",
+            "till"
+          ],
+          "noteZh": "比较 of（...的）和 till（直到）：of 的英文释义是“belonging to or related to”，till 的英文释义是“up to a certain time”；例句分别是“A friend of mine.”和“Wait till noon.”。"
+        },
+        {
+          "words": [
+            "than",
+            "a"
+          ],
+          "noteZh": "比较 than（比）和 a（一个）：than 的英文释义是“used in comparisons”，a 的英文释义是“indefinite article, one of”；例句分别是“She is taller than me.”和“I saw a dog.”。"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "category": "op",
+      "titleZh": "句子骨架：no–who",
+      "titleEn": "Sentence foundations: no–who",
+      "teachingFocusZh": "先找句子的发动机和路标，再把动作、对象与时间关系拼成整句。",
+      "words": [
+        "no",
+        "other",
+        "some",
+        "such",
+        "that",
+        "this",
+        "I",
+        "he",
+        "you",
+        "who"
+      ],
+      "contrasts": [
+        {
+          "words": [
+            "no",
+            "other"
+          ],
+          "noteZh": "比较 no（不,没有）和 other（其他的,另外的）：no 的英文释义是“negation or refusal”，other 的英文释义是“different or additional”；例句分别是“No water is left.”和“Try the other door.”。"
+        },
+        {
+          "words": [
+            "some",
+            "such"
+          ],
+          "noteZh": "比较 some（一些）和 such（这样的）：some 的英文释义是“an unspecified amount”，such 的英文释义是“of that kind or degree”；例句分别是“Have some tea.”和“Such a kind man!”。"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "category": "op",
+      "titleZh": "句子骨架：and–where",
+      "titleEn": "Sentence foundations: and–where",
+      "teachingFocusZh": "先找句子的发动机和路标，再把动作、对象与时间关系拼成整句。",
+      "words": [
+        "and",
+        "because",
+        "but",
+        "or",
+        "if",
+        "though",
+        "while",
+        "how",
+        "when",
+        "where"
+      ],
+      "contrasts": [
+        {
+          "words": [
+            "and",
+            "because"
+          ],
+          "noteZh": "比较 and（和,与）和 because（因为）：and 的英文释义是“connecting two similar things”，because 的英文释义是“giving a reason”；例句分别是“Tom and Jerry.”和“I'm late because of traffic.”。"
+        },
+        {
+          "words": [
+            "but",
+            "or"
+          ],
+          "noteZh": "比较 but（但是）和 or（或者）：but 的英文释义是“introducing a contrast”，or 的英文释义是“presenting alternatives”；例句分别是“Small but strong.”和“Tea or coffee?”。"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "category": "op",
+      "titleZh": "句子骨架：why–still",
+      "titleEn": "Sentence foundations: why–still",
+      "teachingFocusZh": "先找句子的发动机和路标，再把动作、对象与时间关系拼成整句。",
+      "words": [
+        "why",
+        "again",
+        "ever",
+        "far",
+        "forward",
+        "here",
+        "near",
+        "now",
+        "out",
+        "still"
+      ],
+      "contrasts": [
+        {
+          "words": [
+            "why",
+            "again"
+          ],
+          "noteZh": "比较 why（为什么）和 again（再一次）：why 的英文释义是“for what reason”，again 的英文释义是“one more time”；例句分别是“Why are you sad?”和“Try again later.”。"
+        },
+        {
+          "words": [
+            "ever",
+            "far"
+          ],
+          "noteZh": "比较 ever（曾经,永远）和 far（远）：ever 的英文释义是“at any time, always”，far 的英文释义是“at a great distance”；例句分别是“Have you ever been to Paris?”和“How far is the station?”。"
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "category": "op",
+      "titleZh": "句子骨架：then–quite",
+      "titleEn": "Sentence foundations: then–quite",
+      "teachingFocusZh": "先找句子的发动机和路标，再把动作、对象与时间关系拼成整句。",
+      "words": [
+        "then",
+        "there",
+        "together",
+        "well",
+        "almost",
+        "enough",
+        "even",
+        "not",
+        "only",
+        "quite"
+      ],
+      "contrasts": [
+        {
+          "words": [
+            "then",
+            "there"
+          ],
+          "noteZh": "比较 then（那时,然后）和 there（那里）：then 的英文释义是“at that time or next”，there 的英文释义是“in or at that place”；例句分别是“First eat, then sleep.”和“Sit over there.”。"
+        },
+        {
+          "words": [
+            "together",
+            "well"
+          ],
+          "noteZh": "比较 together（一起）和 well（好,健康地）：together 的英文释义是“in one group or company”，well 的英文释义是“in a good way”；例句分别是“We sing together.”和“She speaks English well.”。"
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "category": "op",
+      "titleZh": "句子骨架：so–yes",
+      "titleEn": "Sentence foundations: so–yes",
+      "teachingFocusZh": "先找句子的发动机和路标，再把动作、对象与时间关系拼成整句。",
+      "words": [
+        "so",
+        "very",
+        "tomorrow",
+        "yesterday",
+        "north",
+        "south",
+        "east",
+        "west",
+        "please",
+        "yes"
+      ],
+      "contrasts": [
+        {
+          "words": [
+            "so",
+            "very"
+          ],
+          "noteZh": "比较 so（如此,所以）和 very（非常）：so 的英文释义是“to such a degree, therefore”，very 的英文释义是“to a high degree”；例句分别是“I'm so tired.”和“She is very kind.”。"
+        },
+        {
+          "words": [
+            "tomorrow",
+            "yesterday"
+          ],
+          "noteZh": "比较 tomorrow（明天）和 yesterday（昨天）：tomorrow 的英文释义是“the day after today”，yesterday 的英文释义是“the day before today”；例句分别是“See you tomorrow.”和“It rained yesterday.”。"
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "category": "gt",
+      "titleZh": "通用事物：account–animal",
+      "titleEn": "General vocabulary: account–animal",
+      "teachingFocusZh": "用可见的对象、事件或性质把词放回句子，训练从上下文确认词义。",
+      "words": [
+        "account",
+        "act",
+        "addition",
+        "adjustment",
+        "advertisement",
+        "agreement",
+        "air",
+        "amount",
+        "amusement",
+        "animal"
+      ],
+      "contrasts": [
+        {
+          "words": [
+            "account",
+            "act"
+          ],
+          "noteZh": "比较 account（账户;描述）和 act（行为;法案）：account 的英文释义是“record of money or events”，act 的英文释义是“a thing done or a law”；例句分别是“Open a bank account.”和“It was a kind act.”。"
+        },
+        {
+          "words": [
+            "addition",
+            "adjustment"
+          ],
+          "noteZh": "比较 addition（加法;增加）和 adjustment（调整）：addition 的英文释义是“the act of adding”，adjustment 的英文释义是“a small change to improve”；例句分别是“In addition, she sings.”和“Make a small adjustment.”。"
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "category": "gt",
+      "titleZh": "通用事物：answer–authority",
+      "titleEn": "General vocabulary: answer–authority",
+      "teachingFocusZh": "用可见的对象、事件或性质把词放回句子，训练从上下文确认词义。",
+      "words": [
+        "answer",
+        "apparatus",
+        "approval",
+        "argument",
+        "art",
+        "attack",
+        "attempt",
+        "attention",
+        "attraction",
+        "authority"
+      ],
+      "contrasts": [
+        {
+          "words": [
+            "answer",
+            "apparatus"
+          ],
+          "noteZh": "比较 answer（答案,回答）和 apparatus（器械,设备）：answer 的英文释义是“a reply to a question”，apparatus 的英文释义是“equipment for a specific use”；例句分别是“Give me your answer.”和“The lab has new apparatus.”。"
+        },
+        {
+          "words": [
+            "approval",
+            "argument"
+          ],
+          "noteZh": "比较 approval（批准,赞同）和 argument（争论,论点）：approval 的英文释义是“an expression of agreement”，argument 的英文释义是“a disagreement or reasoning”；例句分别是“She nodded with approval.”和“They had a long argument.”。"
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "category": "gt",
+      "titleZh": "通用事物：back–blow",
+      "titleEn": "General vocabulary: back–blow",
+      "teachingFocusZh": "用可见的对象、事件或性质把词放回句子，训练从上下文确认词义。",
+      "words": [
+        "back",
+        "balance",
+        "base",
+        "behavior",
+        "belief",
+        "birth",
+        "bit",
+        "bite",
+        "blood",
+        "blow"
+      ],
+      "contrasts": [
+        {
+          "words": [
+            "back",
+            "balance"
+          ],
+          "noteZh": "比较 back（背部;后面）和 balance（平衡）：back 的英文释义是“the rear part of a body”，balance 的英文释义是“equal weight or stability”；例句分别是“My back is sore.”和“Keep your balance.”。"
+        },
+        {
+          "words": [
+            "base",
+            "behavior"
+          ],
+          "noteZh": "比较 base（基础,基地）和 behavior（行为,举止）：base 的英文释义是“the bottom support or origin”，behavior 的英文释义是“way a person acts”；例句分别是“The base of the lamp is heavy.”和“Good behavior is rewarded.”。"
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "category": "gt",
+      "titleZh": "通用事物：body–butter",
+      "titleEn": "General vocabulary: body–butter",
+      "teachingFocusZh": "用可见的对象、事件或性质把词放回句子，训练从上下文确认词义。",
+      "words": [
+        "body",
+        "brass",
+        "bread",
+        "breath",
+        "brother",
+        "building",
+        "burn",
+        "burst",
+        "business",
+        "butter"
+      ],
+      "contrasts": [
+        {
+          "words": [
+            "body",
+            "brass"
+          ],
+          "noteZh": "比较 body（身体）和 brass（黄铜）：body 的英文释义是“the physical form of a person”，brass 的英文释义是“yellow metal made of copper and zinc”；例句分别是“Exercise keeps the body strong.”和“The door handle is brass.”。"
+        },
+        {
+          "words": [
+            "bread",
+            "breath"
+          ],
+          "noteZh": "比较 bread（面包）和 breath（呼吸）：bread 的英文释义是“food made from flour and water”，breath 的英文释义是“air taken into the lungs”；例句分别是“Bread and butter for breakfast.”和“Take a deep breath.”。"
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "category": "gt",
+      "titleZh": "通用事物：canvas–comfort",
+      "titleEn": "General vocabulary: canvas–comfort",
+      "teachingFocusZh": "用可见的对象、事件或性质把词放回句子，训练从上下文确认词义。",
+      "words": [
+        "canvas",
+        "care",
+        "cause",
+        "chalk",
+        "chance",
+        "change",
+        "cloth",
+        "coal",
+        "color",
+        "comfort"
+      ],
+      "contrasts": [
+        {
+          "words": [
+            "canvas",
+            "care"
+          ],
+          "noteZh": "比较 canvas（帆布）和 care（关心,照料）：canvas 的英文释义是“strong cloth used for tents or painting”，care 的英文释义是“attention to needs and safety”；例句分别是“The painter prepared the canvas.”和“Take care of yourself.”。"
+        },
+        {
+          "words": [
+            "cause",
+            "chalk"
+          ],
+          "noteZh": "比较 cause（原因）和 chalk（粉笔）：cause 的英文释义是“what makes something happen”，chalk 的英文释义是“soft white stone for writing”；例句分别是“What is the cause of this?”和“Write on the board with chalk.”。"
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "category": "gt",
+      "titleZh": "通用事物：committee–copy",
+      "titleEn": "General vocabulary: committee–copy",
+      "teachingFocusZh": "用可见的对象、事件或性质把词放回句子，训练从上下文确认词义。",
+      "words": [
+        "committee",
+        "company",
+        "comparison",
+        "competition",
+        "condition",
+        "connection",
+        "control",
+        "cook",
+        "copper",
+        "copy"
+      ],
+      "contrasts": [
+        {
+          "words": [
+            "committee",
+            "company"
+          ],
+          "noteZh": "比较 committee（委员会）和 company（公司;陪伴）：committee 的英文释义是“a group chosen for a task”，company 的英文释义是“a business or being with others”；例句分别是“The committee voted yes.”和“She works for a tech company.”。"
+        },
+        {
+          "words": [
+            "comparison",
+            "competition"
+          ],
+          "noteZh": "比较 comparison（比较）和 competition（竞争,比赛）：comparison 的英文释义是“looking at similarities and differences”，competition 的英文释义是“a contest for a prize”；例句分别是“By comparison, this is cheaper.”和“She won the competition.”。"
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "category": "gt",
+      "titleZh": "通用事物：cork–cry",
+      "titleEn": "General vocabulary: cork–cry",
+      "teachingFocusZh": "用可见的对象、事件或性质把词放回句子，训练从上下文确认词义。",
+      "words": [
+        "cork",
+        "cotton",
+        "cough",
+        "country",
+        "cover",
+        "crack",
+        "credit",
+        "crime",
+        "crush",
+        "cry"
+      ],
+      "contrasts": [
+        {
+          "words": [
+            "cork",
+            "cotton"
+          ],
+          "noteZh": "比较 cork（软木塞）和 cotton（棉花,棉）：cork 的英文释义是“light bark used as bottle stopper”，cotton 的英文释义是“soft white fiber from a plant”；例句分别是“Pull the cork from the bottle.”和“This shirt is pure cotton.”。"
+        },
+        {
+          "words": [
+            "cough",
+            "country"
+          ],
+          "noteZh": "比较 cough（咳嗽）和 country（国家;乡村）：cough 的英文释义是“forcing air from throat suddenly”，country 的英文释义是“a nation or rural area”；例句分别是“She has a bad cough.”和“China is a large country.”。"
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "category": "gt",
+      "titleZh": "通用事物：current–degree",
+      "titleEn": "General vocabulary: current–degree",
+      "teachingFocusZh": "用可见的对象、事件或性质把词放回句子，训练从上下文确认词义。",
+      "words": [
+        "current",
+        "curve",
+        "damage",
+        "danger",
+        "daughter",
+        "day",
+        "death",
+        "debt",
+        "decision",
+        "degree"
+      ],
+      "contrasts": [
+        {
+          "words": [
+            "current",
+            "curve"
+          ],
+          "noteZh": "比较 current（水流;电流）和 curve（曲线）：current 的英文释义是“flow of water or electricity”，curve 的英文释义是“a smoothly bending line”；例句分别是“The river current is strong.”和“The road has a sharp curve.”。"
+        },
+        {
+          "words": [
+            "damage",
+            "danger"
+          ],
+          "noteZh": "比较 damage（损害）和 danger（危险）：damage 的英文释义是“harm to something”，danger 的英文释义是“possibility of harm”；例句分别是“The storm caused damage.”和“Stay away from danger.”。"
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "category": "gt",
+      "titleZh": "通用事物：design–disease",
+      "titleEn": "General vocabulary: design–disease",
+      "teachingFocusZh": "用可见的对象、事件或性质把词放回句子，训练从上下文确认词义。",
+      "words": [
+        "design",
+        "desire",
+        "destruction",
+        "detail",
+        "development",
+        "digestion",
+        "direction",
+        "discovery",
+        "discussion",
+        "disease"
+      ],
+      "contrasts": [
+        {
+          "words": [
+            "design",
+            "desire"
+          ],
+          "noteZh": "比较 design（设计）和 desire（欲望,渴望）：design 的英文释义是“a plan or pattern”，desire 的英文释义是“strong wish for something”；例句分别是“The dress has a nice design.”和“She has a desire to travel.”。"
+        },
+        {
+          "words": [
+            "destruction",
+            "detail"
+          ],
+          "noteZh": "比较 destruction（破坏）和 detail（细节）：destruction 的英文释义是“act of ruining completely”，detail 的英文释义是“a small part of something”；例句分别是“The destruction was total.”和“Tell me every detail.”。"
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "category": "gt",
+      "titleZh": "通用事物：disgust–edge",
+      "titleEn": "General vocabulary: disgust–edge",
+      "teachingFocusZh": "用可见的对象、事件或性质把词放回句子，训练从上下文确认词义。",
+      "words": [
+        "disgust",
+        "distance",
+        "distribution",
+        "division",
+        "doubt",
+        "drink",
+        "driving",
+        "dust",
+        "earth",
+        "edge"
+      ],
+      "contrasts": [
+        {
+          "words": [
+            "disgust",
+            "distance"
+          ],
+          "noteZh": "比较 disgust（厌恶）和 distance（距离）：disgust 的英文释义是“strong feeling of dislike”，distance 的英文释义是“space between two points”；例句分别是“He looked at it with disgust.”和“What's the distance from here?”。"
+        },
+        {
+          "words": [
+            "distribution",
+            "division"
+          ],
+          "noteZh": "比较 distribution（分配,分布）和 division（分割,部门）：distribution 的英文释义是“act of sharing out”，division 的英文释义是“splitting into parts”；例句分别是“Fair distribution of food.”和“The division of labor is clear.”。"
+        }
+      ]
+    },
+    {
+      "number": 21,
+      "category": "gt",
+      "titleZh": "通用事物：education–experience",
+      "titleEn": "General vocabulary: education–experience",
+      "teachingFocusZh": "用可见的对象、事件或性质把词放回句子，训练从上下文确认词义。",
+      "words": [
+        "education",
+        "effect",
+        "end",
+        "error",
+        "event",
+        "example",
+        "exchange",
+        "existence",
+        "expansion",
+        "experience"
+      ],
+      "contrasts": [
+        {
+          "words": [
+            "education",
+            "effect"
+          ],
+          "noteZh": "比较 education（教育）和 effect（影响,效果）：education 的英文释义是“the process of teaching”，effect 的英文释义是“result of an action”；例句分别是“Education changes lives.”和“The medicine had no effect.”。"
+        },
+        {
+          "words": [
+            "end",
+            "error"
+          ],
+          "noteZh": "比较 end（末端,结束）和 error（错误）：end 的英文释义是“final part of something”，error 的英文释义是“a mistake”；例句分别是“At the end of the road.”和“There's an error in your math.”。"
+        }
+      ]
+    },
+    {
+      "number": 22,
+      "category": "gt",
+      "titleZh": "通用事物：expert–fight",
+      "titleEn": "General vocabulary: expert–fight",
+      "teachingFocusZh": "用可见的对象、事件或性质把词放回句子，训练从上下文确认词义。",
+      "words": [
+        "expert",
+        "fact",
+        "fall",
+        "family",
+        "father",
+        "fear",
+        "feeling",
+        "fiction",
+        "field",
+        "fight"
+      ],
+      "contrasts": [
+        {
+          "words": [
+            "expert",
+            "fact"
+          ],
+          "noteZh": "比较 expert（专家）和 fact（事实）：expert 的英文释义是“a person with great skill”，fact 的英文释义是“a true thing”；例句分别是“Ask the expert.”和“It's a known fact.”。"
+        },
+        {
+          "words": [
+            "fall",
+            "family"
+          ],
+          "noteZh": "比较 fall（跌落,秋天）和 family（家庭）：fall 的英文释义是“dropping down or autumn”，family 的英文释义是“parents and children”；例句分别是“He had a bad fall.”和“Family comes first.”。"
+        }
+      ]
+    },
+    {
+      "number": 23,
+      "category": "gt",
+      "titleZh": "通用事物：fire–front",
+      "titleEn": "General vocabulary: fire–front",
+      "teachingFocusZh": "用可见的对象、事件或性质把词放回句子，训练从上下文确认词义。",
+      "words": [
+        "fire",
+        "flame",
+        "flight",
+        "flower",
+        "fold",
+        "food",
+        "force",
+        "form",
+        "friend",
+        "front"
+      ],
+      "contrasts": [
+        {
+          "words": [
+            "fire",
+            "flame"
+          ],
+          "noteZh": "比较 fire（火）和 flame（火焰）：fire 的英文释义是“flames giving heat and light”，flame 的英文释义是“hot glowing part of a fire”；例句分别是“Light a fire to keep warm.”和“The candle flame is small.”。"
+        },
+        {
+          "words": [
+            "flight",
+            "flower"
+          ],
+          "noteZh": "比较 flight（飞行,航班）和 flower（花）：flight 的英文释义是“moving through the air”，flower 的英文释义是“colored part of a plant”；例句分别是“The flight to Paris is long.”和“Roses are my favorite flower.”。"
+        }
+      ]
+    },
+    {
+      "number": 24,
+      "category": "gt",
+      "titleZh": "通用事物：fruit–guide",
+      "titleEn": "General vocabulary: fruit–guide",
+      "teachingFocusZh": "用可见的对象、事件或性质把词放回句子，训练从上下文确认词义。",
+      "words": [
+        "fruit",
+        "glass",
+        "gold",
+        "government",
+        "grain",
+        "grass",
+        "grip",
+        "group",
+        "growth",
+        "guide"
+      ],
+      "contrasts": [
+        {
+          "words": [
+            "fruit",
+            "glass"
+          ],
+          "noteZh": "比较 fruit（水果）和 glass（玻璃,玻璃杯）：fruit 的英文释义是“sweet part of a plant with seeds”，glass 的英文释义是“hard clear material or cup”；例句分别是“Apples are my favorite fruit.”和“Pour water in the glass.”。"
+        },
+        {
+          "words": [
+            "gold",
+            "government"
+          ],
+          "noteZh": "比较 gold（金,黄金）和 government（政府）：gold 的英文释义是“precious yellow metal”，government 的英文释义是“system that rules a country”；例句分别是“The ring is pure gold.”和“The government passed a law.”。"
+        }
+      ]
+    },
+    {
+      "number": 25,
+      "category": "gt",
+      "titleZh": "通用事物：harbor–hour",
+      "titleEn": "General vocabulary: harbor–hour",
+      "teachingFocusZh": "用可见的对象、事件或性质把词放回句子，训练从上下文确认词义。",
+      "words": [
+        "harbor",
+        "harmony",
+        "hate",
+        "hearing",
+        "heat",
+        "help",
+        "history",
+        "hole",
+        "hope",
+        "hour"
+      ],
+      "contrasts": [
+        {
+          "words": [
+            "harbor",
+            "harmony"
+          ],
+          "noteZh": "比较 harbor（港口）和 harmony（和谐）：harbor 的英文释义是“safe place for ships”，harmony 的英文释义是“agreement or pleasing combination”；例句分别是“Ships rest in the harbor.”和“They live in harmony.”。"
+        },
+        {
+          "words": [
+            "hate",
+            "hearing"
+          ],
+          "noteZh": "比较 hate（憎恨）和 hearing（听觉,听证会）：hate 的英文释义是“strong dislike”，hearing 的英文释义是“sense of receiving sound”；例句分别是“His hate for lies is well known.”和“Her hearing is sharp.”。"
+        }
+      ]
+    },
+    {
+      "number": 26,
+      "category": "gt",
+      "titleZh": "通用事物：humor–insurance",
+      "titleEn": "General vocabulary: humor–insurance",
+      "teachingFocusZh": "用可见的对象、事件或性质把词放回句子，训练从上下文确认词义。",
+      "words": [
+        "humor",
+        "ice",
+        "idea",
+        "impulse",
+        "increase",
+        "industry",
+        "ink",
+        "insect",
+        "instrument",
+        "insurance"
+      ],
+      "contrasts": [
+        {
+          "words": [
+            "humor",
+            "ice"
+          ],
+          "noteZh": "比较 humor（幽默）和 ice（冰）：humor 的英文释义是“quality of being funny”，ice 的英文释义是“frozen water”；例句分别是“He has a great sense of humor.”和“Put ice in my drink.”。"
+        },
+        {
+          "words": [
+            "idea",
+            "impulse"
+          ],
+          "noteZh": "比较 idea（主意,想法）和 impulse（冲动）：idea 的英文释义是“thought or plan in the mind”，impulse 的英文释义是“sudden urge to act”；例句分别是“That's a good idea.”和“On impulse, she bought it.”。"
+        }
+      ]
+    },
+    {
+      "number": 27,
+      "category": "gt",
+      "titleZh": "通用事物：interest–kiss",
+      "titleEn": "General vocabulary: interest–kiss",
+      "teachingFocusZh": "用可见的对象、事件或性质把词放回句子，训练从上下文确认词义。",
+      "words": [
+        "interest",
+        "invention",
+        "iron",
+        "jelly",
+        "join",
+        "journey",
+        "judge",
+        "jump",
+        "kick",
+        "kiss"
+      ],
+      "contrasts": [
+        {
+          "words": [
+            "interest",
+            "invention"
+          ],
+          "noteZh": "比较 interest（兴趣;利息）和 invention（发明）：interest 的英文释义是“curiosity or money gained”，invention 的英文释义是“something new created”；例句分别是“She has interest in art.”和“The phone was a great invention.”。"
+        },
+        {
+          "words": [
+            "iron",
+            "jelly"
+          ],
+          "noteZh": "比较 iron（铁,熨斗）和 jelly（果冻）：iron 的英文释义是“strong gray metal or tool to smooth clothes”，jelly 的英文释义是“soft semi-solid food”；例句分别是“The gate is made of iron.”和“Spread jelly on toast.”。"
+        }
+      ]
+    },
+    {
+      "number": 28,
+      "category": "gt",
+      "titleZh": "通用事物：knowledge–level",
+      "titleEn": "General vocabulary: knowledge–level",
+      "teachingFocusZh": "用可见的对象、事件或性质把词放回句子，训练从上下文确认词义。",
+      "words": [
+        "knowledge",
+        "land",
+        "language",
+        "laugh",
+        "law",
+        "lead",
+        "learning",
+        "leather",
+        "letter",
+        "level"
+      ],
+      "contrasts": [
+        {
+          "words": [
+            "knowledge",
+            "land"
+          ],
+          "noteZh": "比较 knowledge（知识）和 land（土地,陆地）：knowledge 的英文释义是“information one knows”，land 的英文释义是“solid surface of earth”；例句分别是“Knowledge is power.”和“They own a lot of land.”。"
+        },
+        {
+          "words": [
+            "language",
+            "laugh"
+          ],
+          "noteZh": "比较 language（语言）和 laugh（笑,笑声）：language 的英文释义是“system of words used to communicate”，laugh 的英文释义是“sound of joy”；例句分别是“English is a world language.”和“She gave a hearty laugh.”。"
+        }
+      ]
+    },
+    {
+      "number": 29,
+      "category": "gt",
+      "titleZh": "通用事物：lift–machine",
+      "titleEn": "General vocabulary: lift–machine",
+      "teachingFocusZh": "用可见的对象、事件或性质把词放回句子，训练从上下文确认词义。",
+      "words": [
+        "lift",
+        "light",
+        "limit",
+        "linen",
+        "liquid",
+        "list",
+        "look",
+        "loss",
+        "love",
+        "machine"
+      ],
+      "contrasts": [
+        {
+          "words": [
+            "lift",
+            "light"
+          ],
+          "noteZh": "比较 lift（电梯;抬起）和 light（光,灯）：lift 的英文释义是“raising up or elevator”，light 的英文释义是“brightness from sun or lamp”；例句分别是“Take the lift to the top.”和“Turn on the light.”。"
+        },
+        {
+          "words": [
+            "limit",
+            "linen"
+          ],
+          "noteZh": "比较 limit（限度）和 linen（亚麻布）：limit 的英文释义是“a point not to be passed”，linen 的英文释义是“cloth made from flax”；例句分别是“There's a speed limit here.”和“Linen sheets feel cool.”。"
+        }
+      ]
+    },
+    {
+      "number": 30,
+      "category": "gt",
+      "titleZh": "通用事物：man–memory",
+      "titleEn": "General vocabulary: man–memory",
+      "teachingFocusZh": "用可见的对象、事件或性质把词放回句子，训练从上下文确认词义。",
+      "words": [
+        "man",
+        "manager",
+        "mark",
+        "market",
+        "mass",
+        "meal",
+        "measure",
+        "meat",
+        "meeting",
+        "memory"
+      ],
+      "contrasts": [
+        {
+          "words": [
+            "man",
+            "manager"
+          ],
+          "noteZh": "比较 man（男人,人）和 manager（经理）：man 的英文释义是“adult male or human”，manager 的英文释义是“person in charge”；例句分别是“He's a good man.”和“Ask the manager.”。"
+        },
+        {
+          "words": [
+            "mark",
+            "market"
+          ],
+          "noteZh": "比较 mark（标记）和 market（市场）：mark 的英文释义是“a sign or stain”，market 的英文释义是“place for buying and selling”；例句分别是“Make a mark here.”和“I go to the market weekly.”。"
+        }
+      ]
+    },
+    {
+      "number": 31,
+      "category": "gt",
+      "titleZh": "通用事物：metal–morning",
+      "titleEn": "General vocabulary: metal–morning",
+      "teachingFocusZh": "用可见的对象、事件或性质把词放回句子，训练从上下文确认词义。",
+      "words": [
+        "metal",
+        "middle",
+        "milk",
+        "mind",
+        "mine",
+        "minute",
+        "mist",
+        "money",
+        "month",
+        "morning"
+      ],
+      "contrasts": [
+        {
+          "words": [
+            "metal",
+            "middle"
+          ],
+          "noteZh": "比较 metal（金属）和 middle（中间）：metal 的英文释义是“hard shiny material like iron”，middle 的英文释义是“central part of something”；例句分别是“Steel is a strong metal.”和“Stand in the middle.”。"
+        },
+        {
+          "words": [
+            "milk",
+            "mind"
+          ],
+          "noteZh": "比较 milk（牛奶）和 mind（思想,大脑）：milk 的英文释义是“white liquid from cows”，mind 的英文释义是“part of person that thinks”；例句分别是“Drink your milk.”和“Keep an open mind.”。"
+        }
+      ]
+    },
+    {
+      "number": 32,
+      "category": "gt",
+      "titleZh": "通用事物：mother–night",
+      "titleEn": "General vocabulary: mother–night",
+      "teachingFocusZh": "用可见的对象、事件或性质把词放回句子，训练从上下文确认词义。",
+      "words": [
+        "mother",
+        "motion",
+        "mountain",
+        "move",
+        "music",
+        "name",
+        "nation",
+        "need",
+        "news",
+        "night"
+      ],
+      "contrasts": [
+        {
+          "words": [
+            "mother",
+            "motion"
+          ],
+          "noteZh": "比较 mother（母亲）和 motion（运动,动作）：mother 的英文释义是“a female parent”，motion 的英文释义是“act of moving”；例句分别是“My mother cooks well.”和“The motion was smooth.”。"
+        },
+        {
+          "words": [
+            "mountain",
+            "move"
+          ],
+          "noteZh": "比较 mountain（山）和 move（移动,行动）：mountain 的英文释义是“very high land”，move 的英文释义是“change of position”；例句分别是“The mountain is snowy.”和“That was a smart move.”。"
+        }
+      ]
+    },
+    {
+      "number": 33,
+      "category": "gt",
+      "titleZh": "通用事物：noise–organization",
+      "titleEn": "General vocabulary: noise–organization",
+      "teachingFocusZh": "用可见的对象、事件或性质把词放回句子，训练从上下文确认词义。",
+      "words": [
+        "noise",
+        "note",
+        "number",
+        "observation",
+        "offer",
+        "oil",
+        "operation",
+        "opinion",
+        "order",
+        "organization"
+      ],
+      "contrasts": [
+        {
+          "words": [
+            "noise",
+            "note"
+          ],
+          "noteZh": "比较 noise（噪音）和 note（笔记,便条）：noise 的英文释义是“loud or unpleasant sound”，note 的英文释义是“short written message”；例句分别是“What's that noise?”和“Leave a note for me.”。"
+        },
+        {
+          "words": [
+            "number",
+            "observation"
+          ],
+          "noteZh": "比较 number（数字,号码）和 observation（观察）：number 的英文释义是“word or sign for counting”，observation 的英文释义是“act of watching closely”；例句分别是“My number is 555.”和“Make an observation.”。"
+        }
+      ]
+    },
+    {
+      "number": 34,
+      "category": "gt",
+      "titleZh": "通用事物：ornament–peace",
+      "titleEn": "General vocabulary: ornament–peace",
+      "teachingFocusZh": "用可见的对象、事件或性质把词放回句子，训练从上下文确认词义。",
+      "words": [
+        "ornament",
+        "owner",
+        "page",
+        "pain",
+        "paint",
+        "paper",
+        "part",
+        "paste",
+        "payment",
+        "peace"
+      ],
+      "contrasts": [
+        {
+          "words": [
+            "ornament",
+            "owner"
+          ],
+          "noteZh": "比较 ornament（装饰品）和 owner（主人）：ornament 的英文释义是“decorative object”，owner 的英文释义是“person who owns something”；例句分别是“The room has many ornaments.”和“Who is the owner of this car?”。"
+        },
+        {
+          "words": [
+            "page",
+            "pain"
+          ],
+          "noteZh": "比较 page（页面）和 pain（疼痛）：page 的英文释义是“one side of paper in book”，pain 的英文释义是“unpleasant body feeling”；例句分别是“Turn to page 5.”和“I feel pain in my back.”。"
+        }
+      ]
+    },
+    {
+      "number": 35,
+      "category": "gt",
+      "titleZh": "通用事物：person–position",
+      "titleEn": "General vocabulary: person–position",
+      "teachingFocusZh": "用可见的对象、事件或性质把词放回句子，训练从上下文确认词义。",
+      "words": [
+        "person",
+        "place",
+        "plant",
+        "play",
+        "pleasure",
+        "point",
+        "poison",
+        "polish",
+        "porter",
+        "position"
+      ],
+      "contrasts": [
+        {
+          "words": [
+            "person",
+            "place"
+          ],
+          "noteZh": "比较 person（人）和 place（地方）：person 的英文释义是“a human being”，place 的英文释义是“a particular location”；例句分别是“She's a kind person.”和“This place is beautiful.”。"
+        },
+        {
+          "words": [
+            "plant",
+            "play"
+          ],
+          "noteZh": "比较 plant（植物）和 play（玩,戏剧）：plant 的英文释义是“living thing that grows in soil”，play 的英文释义是“recreation or drama”；例句分别是“Water the plants daily.”和“We watched a great play.”。"
+        }
+      ]
+    },
+    {
+      "number": 36,
+      "category": "gt",
+      "titleZh": "通用事物：powder–protest",
+      "titleEn": "General vocabulary: powder–protest",
+      "teachingFocusZh": "用可见的对象、事件或性质把词放回句子，训练从上下文确认词义。",
+      "words": [
+        "powder",
+        "power",
+        "price",
+        "print",
+        "process",
+        "produce",
+        "profit",
+        "property",
+        "prose",
+        "protest"
+      ],
+      "contrasts": [
+        {
+          "words": [
+            "powder",
+            "power"
+          ],
+          "noteZh": "比较 powder（粉末）和 power（力量,权力）：powder 的英文释义是“very fine dry substance”，power 的英文释义是“ability or strength”；例句分别是“Use baby powder.”和“Knowledge is power.”。"
+        },
+        {
+          "words": [
+            "price",
+            "print"
+          ],
+          "noteZh": "比较 price（价格）和 print（印刷,印记）：price 的英文释义是“amount of money to pay”，print 的英文释义是“mark made by pressing”；例句分别是“What's the price?”和“His thumb print is on it.”。"
+        }
+      ]
+    },
+    {
+      "number": 37,
+      "category": "gt",
+      "titleZh": "通用事物：pull–ray",
+      "titleEn": "General vocabulary: pull–ray",
+      "teachingFocusZh": "用可见的对象、事件或性质把词放回句子，训练从上下文确认词义。",
+      "words": [
+        "pull",
+        "punishment",
+        "purpose",
+        "push",
+        "quality",
+        "question",
+        "rain",
+        "range",
+        "rate",
+        "ray"
+      ],
+      "contrasts": [
+        {
+          "words": [
+            "pull",
+            "punishment"
+          ],
+          "noteZh": "比较 pull（拉）和 punishment（惩罚）：pull 的英文释义是“act of drawing toward”，punishment 的英文释义是“penalty for wrong action”；例句分别是“Give the rope a pull.”和“The punishment was light.”。"
+        },
+        {
+          "words": [
+            "purpose",
+            "push"
+          ],
+          "noteZh": "比较 purpose（目的）和 push（推）：purpose 的英文释义是“reason for doing”，push 的英文释义是“act of moving forward by pressure”；例句分别是“What's the purpose of this?”和“Give the door a push.”。"
+        }
+      ]
+    },
+    {
+      "number": 38,
+      "category": "gt",
+      "titleZh": "通用事物：reaction–respect",
+      "titleEn": "General vocabulary: reaction–respect",
+      "teachingFocusZh": "用可见的对象、事件或性质把词放回句子，训练从上下文确认词义。",
+      "words": [
+        "reaction",
+        "reading",
+        "reason",
+        "record",
+        "regret",
+        "relation",
+        "religion",
+        "representative",
+        "request",
+        "respect"
+      ],
+      "contrasts": [
+        {
+          "words": [
+            "reaction",
+            "reading"
+          ],
+          "noteZh": "比较 reaction（反应）和 reading（阅读）：reaction 的英文释义是“response to something”，reading 的英文释义是“act of looking at words”；例句分别是“His reaction was quick.”和“Reading is my hobby.”。"
+        },
+        {
+          "words": [
+            "reason",
+            "record"
+          ],
+          "noteZh": "比较 reason（原因,理智）和 record（记录）：reason 的英文释义是“cause or logical thinking”，record 的英文释义是“written account of facts”；例句分别是“Tell me the reason.”和“Keep a record of your work.”。"
+        }
+      ]
+    },
+    {
+      "number": 39,
+      "category": "gt",
+      "titleZh": "通用事物：rest–rule",
+      "titleEn": "General vocabulary: rest–rule",
+      "teachingFocusZh": "用可见的对象、事件或性质把词放回句子，训练从上下文确认词义。",
+      "words": [
+        "rest",
+        "reward",
+        "rhythm",
+        "rice",
+        "river",
+        "road",
+        "roll",
+        "room",
+        "rub",
+        "rule"
+      ],
+      "contrasts": [
+        {
+          "words": [
+            "rest",
+            "reward"
+          ],
+          "noteZh": "比较 rest（休息）和 reward（奖赏）：rest 的英文释义是“freedom from work”，reward 的英文释义是“something given for good action”；例句分别是“Take a rest.”和“Hard work brings reward.”。"
+        },
+        {
+          "words": [
+            "rhythm",
+            "rice"
+          ],
+          "noteZh": "比较 rhythm（节奏）和 rice（米,大米）：rhythm 的英文释义是“regular pattern of sound”，rice 的英文释义是“white grain food”；例句分别是“Feel the rhythm of the song.”和“Rice is our main food.”。"
+        }
+      ]
+    },
+    {
+      "number": 40,
+      "category": "gt",
+      "titleZh": "通用事物：run–self",
+      "titleEn": "General vocabulary: run–self",
+      "teachingFocusZh": "用可见的对象、事件或性质把词放回句子，训练从上下文确认词义。",
+      "words": [
+        "run",
+        "salt",
+        "sand",
+        "scale",
+        "science",
+        "sea",
+        "seat",
+        "secretary",
+        "selection",
+        "self"
+      ],
+      "contrasts": [
+        {
+          "words": [
+            "run",
+            "salt"
+          ],
+          "noteZh": "比较 run（跑;运行）和 salt（盐）：run 的英文释义是“act of moving fast on foot”，salt 的英文释义是“white substance to flavor food”；例句分别是“Go for a run.”和“Add salt to the soup.”。"
+        },
+        {
+          "words": [
+            "sand",
+            "scale"
+          ],
+          "noteZh": "比较 sand（沙）和 scale（刻度,规模）：sand 的英文释义是“tiny grains on beach”，scale 的英文释义是“size or measuring marks”；例句分别是“The sand is warm.”和“A small-scale model.”。"
+        }
+      ]
+    },
+    {
+      "number": 41,
+      "category": "gt",
+      "titleZh": "通用事物：sense–silk",
+      "titleEn": "General vocabulary: sense–silk",
+      "teachingFocusZh": "用可见的对象、事件或性质把词放回句子，训练从上下文确认词义。",
+      "words": [
+        "sense",
+        "servant",
+        "sex",
+        "shade",
+        "shake",
+        "shame",
+        "shock",
+        "side",
+        "sign",
+        "silk"
+      ],
+      "contrasts": [
+        {
+          "words": [
+            "sense",
+            "servant"
+          ],
+          "noteZh": "比较 sense（感觉,意义）和 servant（仆人）：sense 的英文释义是“feeling or meaning”，servant 的英文释义是“person who works for another”；例句分别是“It makes sense.”和“The servant brought tea.”。"
+        },
+        {
+          "words": [
+            "sex",
+            "shade"
+          ],
+          "noteZh": "比较 sex（性别,性）和 shade（阴影）：sex 的英文释义是“male or female nature”，shade 的英文释义是“area away from light”；例句分别是“What's the sex of the baby?”和“Sit in the shade.”。"
+        }
+      ]
+    },
+    {
+      "number": 42,
+      "category": "gt",
+      "titleZh": "通用事物：silver–smile",
+      "titleEn": "General vocabulary: silver–smile",
+      "teachingFocusZh": "用可见的对象、事件或性质把词放回句子，训练从上下文确认词义。",
+      "words": [
+        "silver",
+        "sister",
+        "size",
+        "sky",
+        "sleep",
+        "slip",
+        "slope",
+        "smash",
+        "smell",
+        "smile"
+      ],
+      "contrasts": [
+        {
+          "words": [
+            "silver",
+            "sister"
+          ],
+          "noteZh": "比较 silver（银）和 sister（姐妹）：silver 的英文释义是“shiny gray-white metal”，sister 的英文释义是“a female sibling”；例句分别是“The ring is silver.”和“My sister is younger.”。"
+        },
+        {
+          "words": [
+            "size",
+            "sky"
+          ],
+          "noteZh": "比较 size（大小,尺寸）和 sky（天空）：size 的英文释义是“how big or small”，sky 的英文释义是“area above the earth”；例句分别是“What size do you wear?”和“The sky is blue.”。"
+        }
+      ]
+    },
+    {
+      "number": 43,
+      "category": "gt",
+      "titleZh": "通用事物：smoke–soup",
+      "titleEn": "General vocabulary: smoke–soup",
+      "teachingFocusZh": "用可见的对象、事件或性质把词放回句子，训练从上下文确认词义。",
+      "words": [
+        "smoke",
+        "sneeze",
+        "snow",
+        "soap",
+        "society",
+        "son",
+        "song",
+        "sort",
+        "sound",
+        "soup"
+      ],
+      "contrasts": [
+        {
+          "words": [
+            "smoke",
+            "sneeze"
+          ],
+          "noteZh": "比较 smoke（烟）和 sneeze（喷嚏）：smoke 的英文释义是“gas from burning”，sneeze 的英文释义是“sudden burst from nose”；例句分别是“Smoke filled the room.”和“Cover your sneeze.”。"
+        },
+        {
+          "words": [
+            "snow",
+            "soap"
+          ],
+          "noteZh": "比较 snow（雪）和 soap（肥皂）：snow 的英文释义是“white frozen drops from sky”，soap 的英文释义是“substance for washing”；例句分别是“Snow covers the road.”和“Use soap and water.”。"
+        }
+      ]
+    },
+    {
+      "number": 44,
+      "category": "gt",
+      "titleZh": "通用事物：space–stop",
+      "titleEn": "General vocabulary: space–stop",
+      "teachingFocusZh": "用可见的对象、事件或性质把词放回句子，训练从上下文确认词义。",
+      "words": [
+        "space",
+        "stage",
+        "start",
+        "statement",
+        "steam",
+        "steel",
+        "step",
+        "stitch",
+        "stone",
+        "stop"
+      ],
+      "contrasts": [
+        {
+          "words": [
+            "space",
+            "stage"
+          ],
+          "noteZh": "比较 space（空间,太空）和 stage（舞台,阶段）：space 的英文释义是“empty area or the universe”，stage 的英文释义是“platform or step in process”；例句分别是“There's not enough space.”和“She walked on stage.”。"
+        },
+        {
+          "words": [
+            "start",
+            "statement"
+          ],
+          "noteZh": "比较 start（开始）和 statement（声明）：start 的英文释义是“beginning of something”，statement 的英文释义是“clear expression of facts”；例句分别是“It's a good start.”和“Make a statement.”。"
+        }
+      ]
+    },
+    {
+      "number": 45,
+      "category": "gt",
+      "titleZh": "通用事物：story–swim",
+      "titleEn": "General vocabulary: story–swim",
+      "teachingFocusZh": "用可见的对象、事件或性质把词放回句子，训练从上下文确认词义。",
+      "words": [
+        "story",
+        "stretch",
+        "structure",
+        "substance",
+        "sugar",
+        "suggestion",
+        "summer",
+        "support",
+        "surprise",
+        "swim"
+      ],
+      "contrasts": [
+        {
+          "words": [
+            "story",
+            "stretch"
+          ],
+          "noteZh": "比较 story（故事）和 stretch（伸展）：story 的英文释义是“tale of events”，stretch 的英文释义是“making longer”；例句分别是“Tell me a story.”和“Give your back a stretch.”。"
+        },
+        {
+          "words": [
+            "structure",
+            "substance"
+          ],
+          "noteZh": "比较 structure（结构）和 substance（物质）：structure 的英文释义是“how parts are put together”，substance 的英文释义是“matter or material”；例句分别是“The structure is sound.”和“What is this substance?”。"
+        }
+      ]
+    },
+    {
+      "number": 46,
+      "category": "gt",
+      "titleZh": "通用事物：system–thought",
+      "titleEn": "General vocabulary: system–thought",
+      "teachingFocusZh": "用可见的对象、事件或性质把词放回句子，训练从上下文确认词义。",
+      "words": [
+        "system",
+        "talk",
+        "taste",
+        "tax",
+        "teaching",
+        "tendency",
+        "test",
+        "theory",
+        "thing",
+        "thought"
+      ],
+      "contrasts": [
+        {
+          "words": [
+            "system",
+            "talk"
+          ],
+          "noteZh": "比较 system（系统）和 talk（谈话）：system 的英文释义是“organized set of things”，talk 的英文释义是“act of speaking”；例句分别是“The system works well.”和“Let's have a talk.”。"
+        },
+        {
+          "words": [
+            "taste",
+            "tax"
+          ],
+          "noteZh": "比较 taste（味道）和 tax（税）：taste 的英文释义是“flavor sensed in mouth”，tax 的英文释义是“money paid to government”；例句分别是“This soup has a strong taste.”和“Pay your tax on time.”。"
+        }
+      ]
+    },
+    {
+      "number": 47,
+      "category": "gt",
+      "titleZh": "通用事物：thunder–turn",
+      "titleEn": "General vocabulary: thunder–turn",
+      "teachingFocusZh": "用可见的对象、事件或性质把词放回句子，训练从上下文确认词义。",
+      "words": [
+        "thunder",
+        "time",
+        "tin",
+        "top",
+        "touch",
+        "trade",
+        "transport",
+        "trick",
+        "trouble",
+        "turn"
+      ],
+      "contrasts": [
+        {
+          "words": [
+            "thunder",
+            "time"
+          ],
+          "noteZh": "比较 thunder（雷）和 time（时间）：thunder 的英文释义是“loud sound from sky”，time 的英文释义是“flow of past, present, future”；例句分别是“Thunder shook the house.”和“Time flies.”。"
+        },
+        {
+          "words": [
+            "tin",
+            "top"
+          ],
+          "noteZh": "比较 tin（锡;罐头）和 top（顶部）：tin 的英文释义是“soft silver metal or can”，top 的英文释义是“highest part”；例句分别是“A tin of beans.”和“Reach the top of the hill.”。"
+        }
+      ]
+    },
+    {
+      "number": 48,
+      "category": "gt",
+      "titleZh": "通用事物：twist–war",
+      "titleEn": "General vocabulary: twist–war",
+      "teachingFocusZh": "用可见的对象、事件或性质把词放回句子，训练从上下文确认词义。",
+      "words": [
+        "twist",
+        "unit",
+        "use",
+        "value",
+        "verse",
+        "vessel",
+        "view",
+        "voice",
+        "walk",
+        "war"
+      ],
+      "contrasts": [
+        {
+          "words": [
+            "twist",
+            "unit"
+          ],
+          "noteZh": "比较 twist（扭转）和 unit（单位,单元）：twist 的英文释义是“turning around”，unit 的英文释义是“single thing or measure”；例句分别是“Give it a twist.”和“One unit is sold.”。"
+        },
+        {
+          "words": [
+            "use",
+            "value"
+          ],
+          "noteZh": "比较 use（使用）和 value（价值）：use 的英文释义是“act of employing”，value 的英文释义是“how much something is worth”；例句分别是“What's the use of this?”和“This has great value.”。"
+        }
+      ]
+    },
+    {
+      "number": 49,
+      "category": "gt",
+      "titleZh": "通用事物：wash–wind",
+      "titleEn": "General vocabulary: wash–wind",
+      "teachingFocusZh": "用可见的对象、事件或性质把词放回句子，训练从上下文确认词义。",
+      "words": [
+        "wash",
+        "waste",
+        "water",
+        "wave",
+        "wax",
+        "way",
+        "weather",
+        "week",
+        "weight",
+        "wind"
+      ],
+      "contrasts": [
+        {
+          "words": [
+            "wash",
+            "waste"
+          ],
+          "noteZh": "比较 wash（洗涤）和 waste（浪费,废物）：wash 的英文释义是“act of cleaning with water”，waste 的英文释义是“useless use or trash”；例句分别是“Give the car a wash.”和“It's a waste of time.”。"
+        },
+        {
+          "words": [
+            "water",
+            "wave"
+          ],
+          "noteZh": "比较 water（水）和 wave（波浪）：water 的英文释义是“clear liquid we drink”，wave 的英文释义是“moving ridge on water”；例句分别是“Drink more water.”和“The waves are high.”。"
+        }
+      ]
+    },
+    {
+      "number": 50,
+      "category": "gt",
+      "titleZh": "通用事物：wine–year",
+      "titleEn": "General vocabulary: wine–year",
+      "teachingFocusZh": "用可见的对象、事件或性质把词放回句子，训练从上下文确认词义。",
+      "words": [
+        "wine",
+        "winter",
+        "woman",
+        "wood",
+        "wool",
+        "word",
+        "work",
+        "wound",
+        "writing",
+        "year"
+      ],
+      "contrasts": [
+        {
+          "words": [
+            "wine",
+            "winter"
+          ],
+          "noteZh": "比较 wine（葡萄酒）和 winter（冬天）：wine 的英文释义是“drink made from grapes”，winter 的英文释义是“coldest season”；例句分别是“Red wine is good.”和“Winter is cold here.”。"
+        },
+        {
+          "words": [
+            "woman",
+            "wood"
+          ],
+          "noteZh": "比较 woman（女人）和 wood（木头）：woman 的英文释义是“adult female”，wood 的英文释义是“hard material from trees”；例句分别是“She's a kind woman.”和“The chair is wood.”。"
+        }
+      ]
+    },
+    {
+      "number": 51,
+      "category": "pt",
+      "titleZh": "看得见的词：angle–band",
+      "titleEn": "Picturable vocabulary: angle–band",
+      "teachingFocusZh": "用可见的对象、事件或性质把词放回句子，训练从上下文确认词义。",
+      "words": [
+        "angle",
+        "ant",
+        "apple",
+        "arch",
+        "arm",
+        "army",
+        "baby",
+        "bag",
+        "ball",
+        "band"
+      ],
+      "contrasts": [
+        {
+          "words": [
+            "angle",
+            "ant"
+          ],
+          "noteZh": "比较 angle（角）和 ant（蚂蚁）：angle 的英文释义是“corner where two lines meet”，ant 的英文释义是“small insect that lives in colonies”；例句分别是“Cut at a right angle.”和“An ant is on the bread.”。"
+        },
+        {
+          "words": [
+            "apple",
+            "arch"
+          ],
+          "noteZh": "比较 apple（苹果）和 arch（拱门）：apple 的英文释义是“round red or green fruit”，arch 的英文释义是“curved structure over an opening”；例句分别是“An apple a day.”和“Walk through the arch.”。"
+        }
+      ]
+    },
+    {
+      "number": 52,
+      "category": "pt",
+      "titleZh": "看得见的词：basin–board",
+      "titleEn": "Picturable vocabulary: basin–board",
+      "teachingFocusZh": "用可见的对象、事件或性质把词放回句子，训练从上下文确认词义。",
+      "words": [
+        "basin",
+        "basket",
+        "bath",
+        "bed",
+        "bee",
+        "bell",
+        "berry",
+        "bird",
+        "blade",
+        "board"
+      ],
+      "contrasts": [
+        {
+          "words": [
+            "basin",
+            "basket"
+          ],
+          "noteZh": "比较 basin（盆,水池）和 basket（篮子）：basin 的英文释义是“round container for liquids”，basket 的英文释义是“woven container”；例句分别是“Wash hands in the basin.”和“A basket of apples.”。"
+        },
+        {
+          "words": [
+            "bath",
+            "bed"
+          ],
+          "noteZh": "比较 bath（浴缸,洗澡）和 bed（床）：bath 的英文释义是“tub or act of washing body”，bed 的英文释义是“furniture for sleeping”；例句分别是“Take a warm bath.”和“Go to bed.”。"
+        }
+      ]
+    },
+    {
+      "number": 53,
+      "category": "pt",
+      "titleZh": "看得见的词：boat–branch",
+      "titleEn": "Picturable vocabulary: boat–branch",
+      "teachingFocusZh": "用可见的对象、事件或性质把词放回句子，训练从上下文确认词义。",
+      "words": [
+        "boat",
+        "bone",
+        "book",
+        "boot",
+        "bottle",
+        "box",
+        "boy",
+        "brain",
+        "brake",
+        "branch"
+      ],
+      "contrasts": [
+        {
+          "words": [
+            "boat",
+            "bone"
+          ],
+          "noteZh": "比较 boat（船）和 bone（骨头）：boat 的英文释义是“small water craft”，bone 的英文释义是“hard part inside body”；例句分别是“Take the boat across.”和“The dog has a bone.”。"
+        },
+        {
+          "words": [
+            "book",
+            "boot"
+          ],
+          "noteZh": "比较 book（书）和 boot（靴子）：book 的英文释义是“bound pages for reading”，boot 的英文释义是“high shoe”；例句分别是“Read this book.”和“Pull on your boots.”。"
+        }
+      ]
+    },
+    {
+      "number": 54,
+      "category": "pt",
+      "titleZh": "看得见的词：brick–cart",
+      "titleEn": "Picturable vocabulary: brick–cart",
+      "teachingFocusZh": "用可见的对象、事件或性质把词放回句子，训练从上下文确认词义。",
+      "words": [
+        "brick",
+        "bridge",
+        "brush",
+        "bucket",
+        "bulb",
+        "button",
+        "cake",
+        "camera",
+        "card",
+        "cart"
+      ],
+      "contrasts": [
+        {
+          "words": [
+            "brick",
+            "bridge"
+          ],
+          "noteZh": "比较 brick（砖）和 bridge（桥）：brick 的英文释义是“hard block for building”，bridge 的英文释义是“structure across water”；例句分别是“Build a wall of brick.”和“Cross the bridge.”。"
+        },
+        {
+          "words": [
+            "brush",
+            "bucket"
+          ],
+          "noteZh": "比较 brush（刷子）和 bucket（桶）：brush 的英文释义是“tool with bristles”，bucket 的英文释义是“open container with handle”；例句分别是“Use a brush for paint.”和“Fill the bucket.”。"
+        }
+      ]
+    },
+    {
+      "number": 55,
+      "category": "pt",
+      "titleZh": "看得见的词：carriage–cloud",
+      "titleEn": "Picturable vocabulary: carriage–cloud",
+      "teachingFocusZh": "用可见的对象、事件或性质把词放回句子，训练从上下文确认词义。",
+      "words": [
+        "carriage",
+        "cat",
+        "chain",
+        "cheese",
+        "chest",
+        "chin",
+        "church",
+        "circle",
+        "clock",
+        "cloud"
+      ],
+      "contrasts": [
+        {
+          "words": [
+            "carriage",
+            "cat"
+          ],
+          "noteZh": "比较 carriage（马车,车厢）和 cat（猫）：carriage 的英文释义是“vehicle pulled by horses”，cat 的英文释义是“small furry pet”；例句分别是“A horse-drawn carriage.”和“The cat is sleeping.”。"
+        },
+        {
+          "words": [
+            "chain",
+            "cheese"
+          ],
+          "noteZh": "比较 chain（链子）和 cheese（奶酪）：chain 的英文释义是“line of joined metal rings”，cheese 的英文释义是“food from milk”；例句分别是“A chain of mountains.”和“Bread and cheese, please.”。"
+        }
+      ]
+    },
+    {
+      "number": 56,
+      "category": "pt",
+      "titleZh": "看得见的词：coat–door",
+      "titleEn": "Picturable vocabulary: coat–door",
+      "teachingFocusZh": "用可见的对象、事件或性质把词放回句子，训练从上下文确认词义。",
+      "words": [
+        "coat",
+        "collar",
+        "comb",
+        "cord",
+        "cow",
+        "cup",
+        "curtain",
+        "cushion",
+        "dog",
+        "door"
+      ],
+      "contrasts": [
+        {
+          "words": [
+            "coat",
+            "collar"
+          ],
+          "noteZh": "比较 coat（外套）和 collar（衣领）：coat 的英文释义是“outer garment”，collar 的英文释义是“part of shirt around neck”；例句分别是“Put on your coat.”和“His collar is white.”。"
+        },
+        {
+          "words": [
+            "comb",
+            "cord"
+          ],
+          "noteZh": "比较 comb（梳子）和 cord（绳,线）：comb 的英文释义是“tool for hair”，cord 的英文释义是“thin rope”；例句分别是“Use a comb.”和“Tie it with a cord.”。"
+        }
+      ]
+    },
+    {
+      "number": 57,
+      "category": "pt",
+      "titleZh": "看得见的词：drain–farm",
+      "titleEn": "Picturable vocabulary: drain–farm",
+      "teachingFocusZh": "用可见的对象、事件或性质把词放回句子，训练从上下文确认词义。",
+      "words": [
+        "drain",
+        "drawer",
+        "dress",
+        "drop",
+        "ear",
+        "egg",
+        "engine",
+        "eye",
+        "face",
+        "farm"
+      ],
+      "contrasts": [
+        {
+          "words": [
+            "drain",
+            "drawer"
+          ],
+          "noteZh": "比较 drain（排水管）和 drawer（抽屉）：drain 的英文释义是“pipe for waste water”，drawer 的英文释义是“sliding storage box”；例句分别是“The drain is blocked.”和“Open the drawer.”。"
+        },
+        {
+          "words": [
+            "dress",
+            "drop"
+          ],
+          "noteZh": "比较 dress（连衣裙）和 drop（水滴）：dress 的英文释义是“woman's outer garment”，drop 的英文释义是“small round bit of liquid”；例句分别是“A red dress.”和“A drop of water.”。"
+        }
+      ]
+    },
+    {
+      "number": 58,
+      "category": "pt",
+      "titleZh": "看得见的词：feather–frame",
+      "titleEn": "Picturable vocabulary: feather–frame",
+      "teachingFocusZh": "用可见的对象、事件或性质把词放回句子，训练从上下文确认词义。",
+      "words": [
+        "feather",
+        "finger",
+        "fish",
+        "flag",
+        "floor",
+        "fly",
+        "foot",
+        "fork",
+        "fowl",
+        "frame"
+      ],
+      "contrasts": [
+        {
+          "words": [
+            "feather",
+            "finger"
+          ],
+          "noteZh": "比较 feather（羽毛）和 finger（手指）：feather 的英文释义是“light part of bird's covering”，finger 的英文释义是“one of five parts on hand”；例句分别是“As light as a feather.”和“Point with your finger.”。"
+        },
+        {
+          "words": [
+            "fish",
+            "flag"
+          ],
+          "noteZh": "比较 fish（鱼）和 flag（旗帜）：fish 的英文释义是“animal living in water”，flag 的英文释义是“cloth showing country or sign”；例句分别是“Catch a fish.”和“The flag flies high.”。"
+        }
+      ]
+    },
+    {
+      "number": 59,
+      "category": "pt",
+      "titleZh": "看得见的词：garden–head",
+      "titleEn": "Picturable vocabulary: garden–head",
+      "teachingFocusZh": "用可见的对象、事件或性质把词放回句子，训练从上下文确认词义。",
+      "words": [
+        "garden",
+        "girl",
+        "glove",
+        "goat",
+        "gun",
+        "hair",
+        "hammer",
+        "hand",
+        "hat",
+        "head"
+      ],
+      "contrasts": [
+        {
+          "words": [
+            "garden",
+            "girl"
+          ],
+          "noteZh": "比较 garden（花园）和 girl（女孩）：garden 的英文释义是“area with plants”，girl 的英文释义是“young female child”；例句分别是“Work in the garden.”和“The girl is happy.”。"
+        },
+        {
+          "words": [
+            "glove",
+            "goat"
+          ],
+          "noteZh": "比较 glove（手套）和 goat（山羊）：glove 的英文释义是“covering for hand”，goat 的英文释义是“horned farm animal”；例句分别是“Wear warm gloves.”和“The goat eats grass.”。"
+        }
+      ]
+    },
+    {
+      "number": 60,
+      "category": "pt",
+      "titleZh": "看得见的词：heart–key",
+      "titleEn": "Picturable vocabulary: heart–key",
+      "teachingFocusZh": "用可见的对象、事件或性质把词放回句子，训练从上下文确认词义。",
+      "words": [
+        "heart",
+        "hook",
+        "horn",
+        "horse",
+        "hospital",
+        "house",
+        "island",
+        "jewel",
+        "kettle",
+        "key"
+      ],
+      "contrasts": [
+        {
+          "words": [
+            "heart",
+            "hook"
+          ],
+          "noteZh": "比较 heart（心脏）和 hook（钩子）：heart 的英文释义是“organ that pumps blood”，hook 的英文释义是“curved metal for catching”；例句分别是“My heart beats fast.”和“Hang it on the hook.”。"
+        },
+        {
+          "words": [
+            "horn",
+            "horse"
+          ],
+          "noteZh": "比较 horn（角;喇叭）和 horse（马）：horn 的英文释义是“hard growth on animal head”，horse 的英文释义是“large animal for riding”；例句分别是“The bull has horns.”和“Ride the horse.”。"
+        }
+      ]
+    },
+    {
+      "number": 61,
+      "category": "pt",
+      "titleZh": "看得见的词：knee–map",
+      "titleEn": "Picturable vocabulary: knee–map",
+      "teachingFocusZh": "用可见的对象、事件或性质把词放回句子，训练从上下文确认词义。",
+      "words": [
+        "knee",
+        "knife",
+        "knot",
+        "leaf",
+        "leg",
+        "library",
+        "line",
+        "lip",
+        "lock",
+        "map"
+      ],
+      "contrasts": [
+        {
+          "words": [
+            "knee",
+            "knife"
+          ],
+          "noteZh": "比较 knee（膝盖）和 knife（刀）：knee 的英文释义是“middle joint of leg”，knife 的英文释义是“sharp tool for cutting”；例句分别是“Bend your knee.”和“Use a sharp knife.”。"
+        },
+        {
+          "words": [
+            "knot",
+            "leaf"
+          ],
+          "noteZh": "比较 knot（结）和 leaf（叶子）：knot 的英文释义是“tied loop in rope”，leaf 的英文释义是“flat green part of plant”；例句分别是“Make a strong knot.”和“The leaf is yellow.”。"
+        }
+      ]
+    },
+    {
+      "number": 62,
+      "category": "pt",
+      "titleZh": "看得见的词：match–net",
+      "titleEn": "Picturable vocabulary: match–net",
+      "teachingFocusZh": "用可见的对象、事件或性质把词放回句子，训练从上下文确认词义。",
+      "words": [
+        "match",
+        "monkey",
+        "moon",
+        "mouth",
+        "muscle",
+        "nail",
+        "neck",
+        "needle",
+        "nerve",
+        "net"
+      ],
+      "contrasts": [
+        {
+          "words": [
+            "match",
+            "monkey"
+          ],
+          "noteZh": "比较 match（火柴）和 monkey（猴子）：match 的英文释义是“short stick that lights fire”，monkey 的英文释义是“climbing animal with tail”；例句分别是“Light a match.”和“The monkey climbed up.”。"
+        },
+        {
+          "words": [
+            "moon",
+            "mouth"
+          ],
+          "noteZh": "比较 moon（月亮）和 mouth（嘴）：moon 的英文释义是“earth's satellite”，mouth 的英文释义是“opening for eating”；例句分别是“The moon is bright.”和“Open your mouth.”。"
+        }
+      ]
+    },
+    {
+      "number": 63,
+      "category": "pt",
+      "titleZh": "看得见的词：nose–pig",
+      "titleEn": "Picturable vocabulary: nose–pig",
+      "teachingFocusZh": "用可见的对象、事件或性质把词放回句子，训练从上下文确认词义。",
+      "words": [
+        "nose",
+        "nut",
+        "office",
+        "orange",
+        "oven",
+        "parcel",
+        "pen",
+        "pencil",
+        "picture",
+        "pig"
+      ],
+      "contrasts": [
+        {
+          "words": [
+            "nose",
+            "nut"
+          ],
+          "noteZh": "比较 nose（鼻子）和 nut（坚果;螺母）：nose 的英文释义是“organ for smelling”，nut 的英文释义是“hard-shelled seed or fastener”；例句分别是“Blow your nose.”和“Crack the nut.”。"
+        },
+        {
+          "words": [
+            "office",
+            "orange"
+          ],
+          "noteZh": "比较 office（办公室）和 orange（橙子）：office 的英文释义是“place where work is done”，orange 的英文释义是“round citrus fruit”；例句分别是“Go to the office.”和“Peel the orange.”。"
+        }
+      ]
+    },
+    {
+      "number": 64,
+      "category": "pt",
+      "titleZh": "看得见的词：pin–pump",
+      "titleEn": "Picturable vocabulary: pin–pump",
+      "teachingFocusZh": "用可见的对象、事件或性质把词放回句子，训练从上下文确认词义。",
+      "words": [
+        "pin",
+        "pipe",
+        "plane",
+        "plate",
+        "plough",
+        "pocket",
+        "pot",
+        "potato",
+        "prison",
+        "pump"
+      ],
+      "contrasts": [
+        {
+          "words": [
+            "pin",
+            "pipe"
+          ],
+          "noteZh": "比较 pin（别针）和 pipe（管子）：pin 的英文释义是“thin sharp piece of metal”，pipe 的英文释义是“tube for liquid or gas”；例句分别是“Pin it to the board.”和“The pipe is leaking.”。"
+        },
+        {
+          "words": [
+            "plane",
+            "plate"
+          ],
+          "noteZh": "比较 plane（飞机）和 plate（盘子）：plane 的英文释义是“flying machine”，plate 的英文释义是“flat dish for food”；例句分别是“The plane took off.”和“Clean the plate.”。"
+        }
+      ]
+    },
+    {
+      "number": 65,
+      "category": "pt",
+      "titleZh": "看得见的词：rail–scissors",
+      "titleEn": "Picturable vocabulary: rail–scissors",
+      "teachingFocusZh": "用可见的对象、事件或性质把词放回句子，训练从上下文确认词义。",
+      "words": [
+        "rail",
+        "rat",
+        "receipt",
+        "ring",
+        "rod",
+        "roof",
+        "root",
+        "sail",
+        "school",
+        "scissors"
+      ],
+      "contrasts": [
+        {
+          "words": [
+            "rail",
+            "rat"
+          ],
+          "noteZh": "比较 rail（铁轨）和 rat（老鼠）：rail 的英文释义是“metal track for trains”，rat 的英文释义是“large mouse”；例句分别是“The train left the rail.”和“A rat ran by.”。"
+        },
+        {
+          "words": [
+            "receipt",
+            "ring"
+          ],
+          "noteZh": "比较 receipt（收据）和 ring（戒指,环）：receipt 的英文释义是“paper proving payment”，ring 的英文释义是“round band of metal”；例句分别是“Keep your receipt.”和“She wears a gold ring.”。"
+        }
+      ]
+    },
+    {
+      "number": 66,
+      "category": "pt",
+      "titleZh": "看得见的词：screw–snake",
+      "titleEn": "Picturable vocabulary: screw–snake",
+      "teachingFocusZh": "用可见的对象、事件或性质把词放回句子，训练从上下文确认词义。",
+      "words": [
+        "screw",
+        "seed",
+        "sheep",
+        "shelf",
+        "ship",
+        "shirt",
+        "shoe",
+        "skin",
+        "skirt",
+        "snake"
+      ],
+      "contrasts": [
+        {
+          "words": [
+            "screw",
+            "seed"
+          ],
+          "noteZh": "比较 screw（螺丝）和 seed（种子）：screw 的英文释义是“metal pin with twisting grooves”，seed 的英文释义是“small part of plant for growing”；例句分别是“Tighten the screw.”和“Plant the seed.”。"
+        },
+        {
+          "words": [
+            "sheep",
+            "shelf"
+          ],
+          "noteZh": "比较 sheep（羊）和 shelf（架子）：sheep 的英文释义是“woolly farm animal”，shelf 的英文释义是“flat board for storage”；例句分别是“The sheep graze in the field.”和“Put it on the shelf.”。"
+        }
+      ]
+    },
+    {
+      "number": 67,
+      "category": "pt",
+      "titleZh": "看得见的词：sock–stem",
+      "titleEn": "Picturable vocabulary: sock–stem",
+      "teachingFocusZh": "用可见的对象、事件或性质把词放回句子，训练从上下文确认词义。",
+      "words": [
+        "sock",
+        "spade",
+        "sponge",
+        "spoon",
+        "spring",
+        "square",
+        "stamp",
+        "star",
+        "station",
+        "stem"
+      ],
+      "contrasts": [
+        {
+          "words": [
+            "sock",
+            "spade"
+          ],
+          "noteZh": "比较 sock（袜子）和 spade（铲）：sock 的英文释义是“soft covering for foot”，spade 的英文释义是“flat tool for digging”；例句分别是“Put on clean socks.”和“Dig with a spade.”。"
+        },
+        {
+          "words": [
+            "sponge",
+            "spoon"
+          ],
+          "noteZh": "比较 sponge（海绵）和 spoon（勺）：sponge 的英文释义是“soft absorbent material”，spoon 的英文释义是“tool for eating liquid food”；例句分别是“Wipe with a sponge.”和“Use a spoon for soup.”。"
+        }
+      ]
+    },
+    {
+      "number": 68,
+      "category": "pt",
+      "titleZh": "看得见的词：stick–throat",
+      "titleEn": "Picturable vocabulary: stick–throat",
+      "teachingFocusZh": "用可见的对象、事件或性质把词放回句子，训练从上下文确认词义。",
+      "words": [
+        "stick",
+        "stocking",
+        "stomach",
+        "store",
+        "street",
+        "sun",
+        "table",
+        "tail",
+        "thread",
+        "throat"
+      ],
+      "contrasts": [
+        {
+          "words": [
+            "stick",
+            "stocking"
+          ],
+          "noteZh": "比较 stick（棍子）和 stocking（长袜）：stick 的英文释义是“long thin piece of wood”，stocking 的英文释义是“long sock”；例句分别是“Pick up the stick.”和“Christmas stocking.”。"
+        },
+        {
+          "words": [
+            "stomach",
+            "store"
+          ],
+          "noteZh": "比较 stomach（胃,肚子）和 store（商店）：stomach 的英文释义是“organ for digestion”，store 的英文释义是“place to buy things”；例句分别是“My stomach hurts.”和“Go to the store.”。"
+        }
+      ]
+    },
+    {
+      "number": 69,
+      "category": "pt",
+      "titleZh": "看得见的词：thumb–trousers",
+      "titleEn": "Picturable vocabulary: thumb–trousers",
+      "teachingFocusZh": "用可见的对象、事件或性质把词放回句子，训练从上下文确认词义。",
+      "words": [
+        "thumb",
+        "ticket",
+        "toe",
+        "tongue",
+        "tooth",
+        "town",
+        "train",
+        "tray",
+        "tree",
+        "trousers"
+      ],
+      "contrasts": [
+        {
+          "words": [
+            "thumb",
+            "ticket"
+          ],
+          "noteZh": "比较 thumb（拇指）和 ticket（票）：thumb 的英文释义是“thick finger”，ticket 的英文释义是“paper for entry or travel”；例句分别是“Thumbs up!”和“Show your ticket.”。"
+        },
+        {
+          "words": [
+            "toe",
+            "tongue"
+          ],
+          "noteZh": "比较 toe（脚趾）和 tongue（舌头）：toe 的英文释义是“one of five on foot”，tongue 的英文释义是“organ in mouth”；例句分别是“Stub your toe.”和“Stick out your tongue.”。"
+        }
+      ]
+    },
+    {
+      "number": 70,
+      "category": "pt",
+      "titleZh": "看得见的词：umbrella–worm",
+      "titleEn": "Picturable vocabulary: umbrella–worm",
+      "teachingFocusZh": "用可见的对象、事件或性质把词放回句子，训练从上下文确认词义。",
+      "words": [
+        "umbrella",
+        "wall",
+        "watch",
+        "wheel",
+        "whip",
+        "whistle",
+        "window",
+        "wing",
+        "wire",
+        "worm"
+      ],
+      "contrasts": [
+        {
+          "words": [
+            "umbrella",
+            "wall"
+          ],
+          "noteZh": "比较 umbrella（伞）和 wall（墙）：umbrella 的英文释义是“cover against rain”，wall 的英文释义是“vertical side of room”；例句分别是“Open the umbrella.”和“Hang it on the wall.”。"
+        },
+        {
+          "words": [
+            "watch",
+            "wheel"
+          ],
+          "noteZh": "比较 watch（手表）和 wheel（轮子）：watch 的英文释义是“small clock for wrist”，wheel 的英文释义是“round thing that turns”；例句分别是“My watch is fast.”和“The wheel turns.”。"
+        }
+      ]
+    },
+    {
+      "number": 71,
+      "category": "qg",
+      "titleZh": "描述世界：able–brown",
+      "titleEn": "Describing qualities: able–brown",
+      "teachingFocusZh": "用可见的对象、事件或性质把词放回句子，训练从上下文确认词义。",
+      "words": [
+        "able",
+        "acid",
+        "angry",
+        "automatic",
+        "beautiful",
+        "black",
+        "boiling",
+        "bright",
+        "broken",
+        "brown"
+      ],
+      "contrasts": [
+        {
+          "words": [
+            "able",
+            "acid"
+          ],
+          "noteZh": "比较 able（能够的）和 acid（酸的）：able 的英文释义是“having the power to do”，acid 的英文释义是“having sour taste”；例句分别是“She is able to swim.”和“Lemons taste acid.”。"
+        },
+        {
+          "words": [
+            "angry",
+            "automatic"
+          ],
+          "noteZh": "比较 angry（愤怒的）和 automatic（自动的）：angry 的英文释义是“feeling strong displeasure”，automatic 的英文释义是“working by itself”；例句分别是“Don't be angry with me.”和“An automatic door.”。"
+        }
+      ]
+    },
+    {
+      "number": 72,
+      "category": "qg",
+      "titleZh": "描述世界：cheap–deep",
+      "titleEn": "Describing qualities: cheap–deep",
+      "teachingFocusZh": "用可见的对象、事件或性质把词放回句子，训练从上下文确认词义。",
+      "words": [
+        "cheap",
+        "chemical",
+        "chief",
+        "clean",
+        "clear",
+        "common",
+        "complex",
+        "conscious",
+        "cut",
+        "deep"
+      ],
+      "contrasts": [
+        {
+          "words": [
+            "cheap",
+            "chemical"
+          ],
+          "noteZh": "比较 cheap（便宜的）和 chemical（化学的）：cheap 的英文释义是“costing little”，chemical 的英文释义是“related to chemistry”；例句分别是“This is a cheap shop.”和“A chemical reaction.”。"
+        },
+        {
+          "words": [
+            "chief",
+            "clean"
+          ],
+          "noteZh": "比较 chief（主要的）和 clean（干净的）：chief 的英文释义是“most important”，clean 的英文释义是“free from dirt”；例句分别是“The chief reason.”和“Wash your hands clean.”。"
+        }
+      ]
+    },
+    {
+      "number": 73,
+      "category": "qg",
+      "titleZh": "描述世界：dependent–flat",
+      "titleEn": "Describing qualities: dependent–flat",
+      "teachingFocusZh": "用可见的对象、事件或性质把词放回句子，训练从上下文确认词义。",
+      "words": [
+        "dependent",
+        "early",
+        "elastic",
+        "electric",
+        "equal",
+        "fat",
+        "fertile",
+        "first",
+        "fixed",
+        "flat"
+      ],
+      "contrasts": [
+        {
+          "words": [
+            "dependent",
+            "early"
+          ],
+          "noteZh": "比较 dependent（依赖的）和 early（早的）：dependent 的英文释义是“relying on another”，early 的英文释义是“before usual time”；例句分别是“Children are dependent on parents.”和“An early start.”。"
+        },
+        {
+          "words": [
+            "elastic",
+            "electric"
+          ],
+          "noteZh": "比较 elastic（有弹性的）和 electric（电的）：elastic 的英文释义是“able to stretch and return”，electric 的英文释义是“running on electricity”；例句分别是“An elastic band.”和“An electric car.”。"
+        }
+      ]
+    },
+    {
+      "number": 74,
+      "category": "qg",
+      "titleZh": "描述世界：free–hard",
+      "titleEn": "Describing qualities: free–hard",
+      "teachingFocusZh": "用可见的对象、事件或性质把词放回句子，训练从上下文确认词义。",
+      "words": [
+        "free",
+        "frequent",
+        "full",
+        "general",
+        "good",
+        "great",
+        "grey",
+        "hanging",
+        "happy",
+        "hard"
+      ],
+      "contrasts": [
+        {
+          "words": [
+            "free",
+            "frequent"
+          ],
+          "noteZh": "比较 free（自由的;免费的）和 frequent（频繁的）：free 的英文释义是“not controlled or no cost”，frequent 的英文释义是“happening often”；例句分别是“Free of charge.”和“He pays frequent visits.”。"
+        },
+        {
+          "words": [
+            "full",
+            "general"
+          ],
+          "noteZh": "比较 full（满的）和 general（一般的）：full 的英文释义是“holding as much as possible”，general 的英文释义是“not specific or for all”；例句分别是“The cup is full.”和“A general idea.”。"
+        }
+      ]
+    },
+    {
+      "number": 75,
+      "category": "qg",
+      "titleZh": "描述世界：healthy–married",
+      "titleEn": "Describing qualities: healthy–married",
+      "teachingFocusZh": "用可见的对象、事件或性质把词放回句子，训练从上下文确认词义。",
+      "words": [
+        "healthy",
+        "high",
+        "hollow",
+        "important",
+        "kind",
+        "like",
+        "living",
+        "long",
+        "male",
+        "married"
+      ],
+      "contrasts": [
+        {
+          "words": [
+            "healthy",
+            "high"
+          ],
+          "noteZh": "比较 healthy（健康的）和 high（高的）：healthy 的英文释义是“not sick”，high 的英文释义是“reaching far up”；例句分别是“Eat healthy food.”和“A high tower.”。"
+        },
+        {
+          "words": [
+            "hollow",
+            "important"
+          ],
+          "noteZh": "比较 hollow（空心的）和 important（重要的）：hollow 的英文释义是“empty inside”，important 的英文释义是“of great value”；例句分别是“A hollow tree.”和“An important meeting.”。"
+        }
+      ]
+    },
+    {
+      "number": 76,
+      "category": "qg",
+      "titleZh": "描述世界：material–past",
+      "titleEn": "Describing qualities: material–past",
+      "teachingFocusZh": "用可见的对象、事件或性质把词放回句子，训练从上下文确认词义。",
+      "words": [
+        "material",
+        "medical",
+        "military",
+        "natural",
+        "necessary",
+        "new",
+        "normal",
+        "open",
+        "parallel",
+        "past"
+      ],
+      "contrasts": [
+        {
+          "words": [
+            "material",
+            "medical"
+          ],
+          "noteZh": "比较 material（物质的）和 medical（医学的）：material 的英文释义是“made of matter”，medical 的英文释义是“related to medicine”；例句分别是“Material things matter less.”和“Medical care is costly.”。"
+        },
+        {
+          "words": [
+            "military",
+            "natural"
+          ],
+          "noteZh": "比较 military（军事的）和 natural（自然的）：military 的英文释义是“related to armed forces”，natural 的英文释义是“from nature, not man-made”；例句分别是“Military service is hard.”和“Natural beauty.”。"
+        }
+      ]
+    },
+    {
+      "number": 77,
+      "category": "qg",
+      "titleZh": "描述世界：physical–ready",
+      "titleEn": "Describing qualities: physical–ready",
+      "teachingFocusZh": "用可见的对象、事件或性质把词放回句子，训练从上下文确认词义。",
+      "words": [
+        "physical",
+        "political",
+        "poor",
+        "possible",
+        "present",
+        "private",
+        "probable",
+        "quick",
+        "quiet",
+        "ready"
+      ],
+      "contrasts": [
+        {
+          "words": [
+            "physical",
+            "political"
+          ],
+          "noteZh": "比较 physical（身体的）和 political（政治的）：physical 的英文释义是“related to body or matter”，political 的英文释义是“related to government”；例句分别是“Physical exercise is good.”和“Political views differ.”。"
+        },
+        {
+          "words": [
+            "poor",
+            "possible"
+          ],
+          "noteZh": "比较 poor（贫穷的）和 possible（可能的）：poor 的英文释义是“having little money”，possible 的英文释义是“able to happen”；例句分别是“A poor family.”和“Anything is possible.”。"
+        }
+      ]
+    },
+    {
+      "number": 78,
+      "category": "qg",
+      "titleZh": "描述世界：red–sharp",
+      "titleEn": "Describing qualities: red–sharp",
+      "teachingFocusZh": "用可见的对象、事件或性质把词放回句子，训练从上下文确认词义。",
+      "words": [
+        "red",
+        "regular",
+        "responsible",
+        "right",
+        "round",
+        "same",
+        "second",
+        "separate",
+        "serious",
+        "sharp"
+      ],
+      "contrasts": [
+        {
+          "words": [
+            "red",
+            "regular"
+          ],
+          "noteZh": "比较 red（红色的）和 regular（规律的）：red 的英文释义是“color of blood”，regular 的英文释义是“happening at fixed times”；例句分别是“A red apple.”和“Regular exercise helps.”。"
+        },
+        {
+          "words": [
+            "responsible",
+            "right"
+          ],
+          "noteZh": "比较 responsible（负责的）和 right（对的;右的）：responsible 的英文释义是“having a duty”，right 的英文释义是“correct or opposite of left”；例句分别是“You are responsible.”和“You are right.”。"
+        }
+      ]
+    },
+    {
+      "number": 79,
+      "category": "qg",
+      "titleZh": "描述世界：smooth–tight",
+      "titleEn": "Describing qualities: smooth–tight",
+      "teachingFocusZh": "用可见的对象、事件或性质把词放回句子，训练从上下文确认词义。",
+      "words": [
+        "smooth",
+        "sticky",
+        "stiff",
+        "straight",
+        "strong",
+        "sudden",
+        "sweet",
+        "tall",
+        "thick",
+        "tight"
+      ],
+      "contrasts": [
+        {
+          "words": [
+            "smooth",
+            "sticky"
+          ],
+          "noteZh": "比较 smooth（光滑的）和 sticky（粘的）：smooth 的英文释义是“having even surface”，sticky 的英文释义是“likely to stick”；例句分别是“Smooth as silk.”和“Sticky fingers.”。"
+        },
+        {
+          "words": [
+            "stiff",
+            "straight"
+          ],
+          "noteZh": "比较 stiff（僵硬的）和 straight（直的）：stiff 的英文释义是“hard to bend”，straight 的英文释义是“without curves”；例句分别是“A stiff neck.”和“Walk in a straight line.”。"
+        }
+      ]
+    },
+    {
+      "number": 80,
+      "category": "qg",
+      "titleZh": "描述世界：tired–young",
+      "titleEn": "Describing qualities: tired–young",
+      "teachingFocusZh": "用可见的对象、事件或性质把词放回句子，训练从上下文确认词义。",
+      "words": [
+        "tired",
+        "true",
+        "violent",
+        "waiting",
+        "warm",
+        "wet",
+        "wide",
+        "wise",
+        "yellow",
+        "young"
+      ],
+      "contrasts": [
+        {
+          "words": [
+            "tired",
+            "true"
+          ],
+          "noteZh": "比较 tired（疲倦的）和 true（真的）：tired 的英文释义是“in need of rest”，true 的英文释义是“in agreement with fact”；例句分别是“I'm tired today.”和“It's a true story.”。"
+        },
+        {
+          "words": [
+            "violent",
+            "waiting"
+          ],
+          "noteZh": "比较 violent（暴力的）和 waiting（等候的）：violent 的英文释义是“using great force”，waiting 的英文释义是“staying in expectation”；例句分别是“A violent storm.”和“The waiting room.”。"
+        }
+      ]
+    },
+    {
+      "number": 81,
+      "category": "qo",
+      "titleZh": "对照边界：awake–dark",
+      "titleEn": "Contrasting qualities: awake–dark",
+      "teachingFocusZh": "将本课的性质词放回句子，依据定义、例句和上下文辨认具体状态与边界。",
+      "words": [
+        "awake",
+        "bad",
+        "bent",
+        "bitter",
+        "blue",
+        "certain",
+        "cold",
+        "complete",
+        "cruel",
+        "dark"
+      ],
+      "contrasts": [
+        {
+          "words": [
+            "awake",
+            "bad"
+          ],
+          "noteZh": "比较 awake（醒着的）和 bad（坏的）：awake 的英文释义是“not sleeping”，bad 的英文释义是“not good”；例句分别是“I'm wide awake.”和“Bad weather.”。"
+        },
+        {
+          "words": [
+            "bent",
+            "bitter"
+          ],
+          "noteZh": "比较 bent（弯曲的）和 bitter（苦的）：bent 的英文释义是“not straight”，bitter 的英文释义是“having sharp unpleasant taste”；例句分别是“A bent nail.”和“Bitter coffee.”。"
+        }
+      ]
+    },
+    {
+      "number": 82,
+      "category": "qo",
+      "titleZh": "对照边界：dead–foolish",
+      "titleEn": "Contrasting qualities: dead–foolish",
+      "teachingFocusZh": "将本课的性质词放回句子，依据定义、例句和上下文辨认具体状态与边界。",
+      "words": [
+        "dead",
+        "dear",
+        "delicate",
+        "different",
+        "dirty",
+        "dry",
+        "false",
+        "feeble",
+        "female",
+        "foolish"
+      ],
+      "contrasts": [
+        {
+          "words": [
+            "dead",
+            "dear"
+          ],
+          "noteZh": "比较 dead（死的）和 dear（亲爱的;昂贵的）：dead 的英文释义是“no longer alive”，dear 的英文释义是“loved or costly”；例句分别是“The flowers are dead.”和“My dear friend.”。"
+        },
+        {
+          "words": [
+            "delicate",
+            "different"
+          ],
+          "noteZh": "比较 delicate（精致的）和 different（不同的）：delicate 的英文释义是“easily damaged”，different 的英文释义是“not the same”；例句分别是“Delicate glass.”和“A different idea.”。"
+        }
+      ]
+    },
+    {
+      "number": 83,
+      "category": "qo",
+      "titleZh": "对照边界：future–mixed",
+      "titleEn": "Contrasting qualities: future–mixed",
+      "teachingFocusZh": "将本课的性质词放回句子，依据定义、例句和上下文辨认具体状态与边界。",
+      "words": [
+        "future",
+        "green",
+        "ill",
+        "last",
+        "late",
+        "left",
+        "loose",
+        "loud",
+        "low",
+        "mixed"
+      ],
+      "contrasts": [
+        {
+          "words": [
+            "future",
+            "green"
+          ],
+          "noteZh": "比较 future（未来的）和 green（绿色的）：future 的英文释义是“of time to come”，green 的英文释义是“color of grass”；例句分别是“Future plans.”和“Green leaves.”。"
+        },
+        {
+          "words": [
+            "ill",
+            "last"
+          ],
+          "noteZh": "比较 ill（生病的）和 last（最后的）：ill 的英文释义是“not well”，last 的英文释义是“after all others”；例句分别是“He is ill in bed.”和“The last day.”。"
+        }
+      ]
+    },
+    {
+      "number": 84,
+      "category": "qo",
+      "titleZh": "对照边界：narrow–shut",
+      "titleEn": "Contrasting qualities: narrow–shut",
+      "teachingFocusZh": "将本课的性质词放回句子，依据定义、例句和上下文辨认具体状态与边界。",
+      "words": [
+        "narrow",
+        "old",
+        "opposite",
+        "public",
+        "rough",
+        "sad",
+        "safe",
+        "secret",
+        "short",
+        "shut"
+      ],
+      "contrasts": [
+        {
+          "words": [
+            "narrow",
+            "old"
+          ],
+          "noteZh": "比较 narrow（狭窄的）和 old（老的）：narrow 的英文释义是“small from side to side”，old 的英文释义是“having lived long”；例句分别是“A narrow road.”和“My old grandfather.”。"
+        },
+        {
+          "words": [
+            "opposite",
+            "public"
+          ],
+          "noteZh": "比较 opposite（相反的）和 public（公共的）：opposite 的英文释义是“completely different”，public 的英文释义是“open to all”；例句分别是“The opposite direction.”和“A public park.”。"
+        }
+      ]
+    },
+    {
+      "number": 85,
+      "category": "qo",
+      "titleZh": "对照边界：simple–wrong",
+      "titleEn": "Contrasting qualities: simple–wrong",
+      "teachingFocusZh": "将本课的性质词放回句子，依据定义、例句和上下文辨认具体状态与边界。",
+      "words": [
+        "simple",
+        "slow",
+        "small",
+        "soft",
+        "solid",
+        "special",
+        "strange",
+        "thin",
+        "white",
+        "wrong"
+      ],
+      "contrasts": [
+        {
+          "words": [
+            "simple",
+            "slow"
+          ],
+          "noteZh": "比较 simple（简单的）和 slow（慢的）：simple 的英文释义是“not complex”，slow 的英文释义是“not fast”；例句分别是“A simple answer.”和“A slow turtle.”。"
+        },
+        {
+          "words": [
+            "small",
+            "soft"
+          ],
+          "noteZh": "比较 small（小的）和 soft（柔软的）：small 的英文释义是“not large”，soft 的英文释义是“easy to press”；例句分别是“A small house.”和“A soft pillow.”。"
+        }
+      ]
+    }
+  ]
+}
